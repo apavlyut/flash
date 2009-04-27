@@ -1,0 +1,12 @@
+<buttons>
+    <button>
+        <id>1</id>
+        <title>Выгодно</title>
+        <body>Бла бла бла</body>
+    </button>
+    <button>
+        <id>2</id>
+        <title>Надежно</title>
+        <body>Еще бла ла бла</body>
+    </button>
+</buttons>
